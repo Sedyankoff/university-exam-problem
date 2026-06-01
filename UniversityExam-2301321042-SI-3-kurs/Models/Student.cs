@@ -11,17 +11,33 @@ public class Student : IStudent
 
     public string Name { get; }
 
+    public StudentType Type { get; }
+
     public Student(
         string name,
+        StudentType type,
         IArrivalStrategy arrivalStrategy)
     {
         Name = name;
+        Type = type;
         _arrivalStrategy = arrivalStrategy;
     }
 
     public void ShowInfo()
     {
         Console.WriteLine($"Студент: {Name}");
+        Console.WriteLine($"Тип студент: {GetTypeName()}");
         _arrivalStrategy.Arrive();
+    }
+
+    private string GetTypeName()
+    {
+        return Type switch
+        {
+            StudentType.Wunderkind => "вундеркинд",
+            StudentType.FitnessManiac => "фитнес маниак",
+            StudentType.Kalitko => "калитко",
+            _ => "неизвестен"
+        };
     }
 }

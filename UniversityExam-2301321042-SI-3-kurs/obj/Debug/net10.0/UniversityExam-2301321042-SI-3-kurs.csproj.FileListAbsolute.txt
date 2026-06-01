@@ -1,0 +1,15 @@
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\bin\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.exe
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\bin\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.deps.json
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\bin\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.runtimeconfig.json
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\bin\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.dll
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\bin\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.pdb
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.AssemblyInfoInputs.cache
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.AssemblyInfo.cs
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.csproj.CoreCompileInputs.cache
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.sourcelink.json
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.dll
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\refint\UniversityExam-2301321042-SI-3-kurs.dll
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.pdb
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\UniversityExam-2301321042-SI-3-kurs.genruntimeconfig.cache
+C:\Users\Stoil\Desktop\Important Files\Uni\GitHubProjects\UniversityExam-2301321042-SI-3-kurs\UniversityExam-2301321042-SI-3-kurs\obj\Debug\net10.0\ref\UniversityExam-2301321042-SI-3-kurs.dll

@@ -11,6 +11,8 @@ public abstract class StudentDecorator : IStudent
 
     public string Name => Student.Name;
 
+    public StudentType Type => Student.Type;
+
     protected StudentDecorator(IStudent student)
     {
         Student = student;

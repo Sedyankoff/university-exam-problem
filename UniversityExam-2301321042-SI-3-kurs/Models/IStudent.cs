@@ -8,5 +8,7 @@ public interface IStudent
 {
     string Name { get; }
 
+    StudentType Type { get; }
+
     void ShowInfo();
 }
