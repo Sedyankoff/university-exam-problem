@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniversityExam-2301321042-SI-3-kurs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf6192710421f986841ee358e09a935bd925e8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a87d2a24ec5b0855a3b3ecd088081cd2061ea8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniversityExam-2301321042-SI-3-kurs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniversityExam-2301321042-SI-3-kurs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
